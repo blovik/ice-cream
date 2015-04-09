@@ -228,38 +228,12 @@ a.fade:hover span{ /*the span will display just on :hover state*/
 }
 
 /*testing*/
-#bootcamp {
-	filter: blur (4px);
-}
-#bootcamp {
-	position: fixed;
-	top: 300px;
-	left: -220px;
-	width: 600px;
-	height: 30px;
-    color: #202020;
-    font-size: 3em;
-    font-weight: 900;
-    /*Rotate div*/
-    -ms-transform: rotate(270deg); /* IE 9 */
-    -webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
-    transform: rotate(270deg);
-    z-index: 51;
-}
-#geekwise {
-	position: fixed;
-	top: 340px;
-	right: -220px;
-	width: 600px;
-	height: 30px;
-	background-color: black;
-	color: #202020;
-	font-size: 3em;
-	font-weight: 900;
-	z-index: 50;
-	-ms-transform: rotate(90deg); /* IE 9 */
-    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
-    transform: rotate(90deg);
+=======================================
 
-}
+
+
+
+
+
+
 
